@@ -35,7 +35,8 @@ You can use them to verify that each signal is soldered down properly.
 The currently most comprehensive images have been created by [mmmonkey](https://mmmonkey.co.uk/xstation-sony-playstation-install-notes-and-pinout/). Thanks!   
 
 ## PU-18   
-![PU-18](https://mmmonkey.co.uk/wp-content/uploads/2020/12/xStation-550X-QSB-map.png)   
+![PU-18](https://user-images.githubusercontent.com/6278722/112033652-f08d7380-8b3d-11eb-9124-131df4cb646f.png)
+)   
 
 ## LATE PU-8 (-21 and later)   
 ![Late PU-8](https://i.imgur.com/gTHg3ca.jpeg)   
